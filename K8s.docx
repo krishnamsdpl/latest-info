@@ -1,0 +1,10 @@
+list of objects of Kubernetes?
+1) Pods, 
+2) Replication sets and controllers, 
+3) Jobs and cron jobs,
+4) Daemon sets, 
+5) Distinctive identities,
+6) Deployments, 
+7) and Stateful sets
+
+https://phoenixnap.com/kb/kubectl-commands-cheat-sheet
