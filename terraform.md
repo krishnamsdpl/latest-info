@@ -1,3 +1,3 @@
-Terraform Resources
-Terraform provider
+Terraform Resources.
+Terraform provider.
 Terraform Network
