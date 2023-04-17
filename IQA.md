@@ -1,5 +1,5 @@
 
-How to restrict access to the master branch in Git
+1.How to restrict access to the master branch in Git
 
 To protect a branch:
 
@@ -18,4 +18,10 @@ Configure specific branch rule settings if needed.
 Click Create or Save changes.
 
 
-https://stackoverflow.com/questions/38864405/how-to-restrict-access-to-the-master-branch-in-git
+1.https://stackoverflow.com/questions/38864405/how-to-restrict-access-to-the-master-branch-in-git
+
+
+Azure Group ?
+
+Groups are used to manage users that all need the same access and permissions for potentially restricted apps and servic
+
