@@ -33,6 +33,12 @@ What is azure resource group?
 
 A resource group is a container that holds related resources for an Azure solution.
 
+![image](https://user-images.githubusercontent.com/30367367/232394645-d06f4774-9825-4a51-a95d-65f79dd981d2.png)
+
+
 ![image](https://user-images.githubusercontent.com/30367367/232394481-187e2d6a-e28c-4ce3-a999-1fe319023da5.png)
+
+
+
 
 
