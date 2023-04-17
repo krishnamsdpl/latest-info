@@ -25,3 +25,14 @@ Azure Group ?
 
 Groups are used to manage users that all need the same access and permissions for potentially restricted apps and servic
 
+What is Kubernetes pod?
+A Kubernetes pod is a collection of one or more Linux® containers, and is the smallest unit of a Kubernetes application. Any given pod can be composed of multiple, tightly coupled containers (an advanced use case) or just a single container (a more common use case). 
+Containers are grouped into Kubernetes pods in order to increase the intelligence of resource sharing.
+
+What is azure resource group?
+
+A resource group is a container that holds related resources for an Azure solution.
+
+![image](https://user-images.githubusercontent.com/30367367/232394481-187e2d6a-e28c-4ce3-a999-1fe319023da5.png)
+
+
