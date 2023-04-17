@@ -1,0 +1,36 @@
+# Single Stage single Job YAML pipeline
+
+trigger:
+- main
+pool:
+  name: Default
+steps:
+- task: VSBuild@1
+  inputs:
+    solution: '**\*.sln'
+    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package 
+ /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactstagingdirectory)\\"'
+    platform: 'any cpu'
+    configuration: 'release'
+    
+  # 2. Single Stage Multi Job YAML Pipeline 
+  
+  trigger:
+    - main
+  jobs: 
+    - job: ActivityonLiunx
+      pool:
+       name: default
+      steps: 
+       - script: echo hello world
+         displayName: " Run a one-line script"
+     - job: Activityonwindows  
+       pool: 
+         name: Default
+       steps:
+         - task: Powershell@2
+           inputs: 
+             targetsType: 
+   
+   
+    
