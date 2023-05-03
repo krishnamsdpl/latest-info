@@ -41,4 +41,19 @@ A resource group is a container that holds related resources for an Azure soluti
 
 
 
+What is service prinicipal ?
+
+Service Principal is an application within Azure Active Directory, which is authorized to access resources in Azure. This access is restricted by the roles assigned to the service principal, giving you control over which resources can be accessed and at which level
+
+Create a Service Principal.
+Authorize and Assign a role to the Service Principal.
+To associate a Service Principal with Serverless360, the following values are required:
+
+Tenant Id - Azure Active Directory Id.
+Client Id - Id of the Service Principal object / App registered with the Active Directory.
+Client Secret - Application password.
+
+https://docs.serverless360.com/docs/what-is-a-service-principal-1
+
+
 
