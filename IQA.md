@@ -56,4 +56,38 @@ Client Secret - Application password.
 https://docs.serverless360.com/docs/what-is-a-service-principal-1
 
 
+05-05-2023:
+
+https://azurecharts.com/
+
+1.	Azure Active Directory
+2.	Azure DNS
+3.	Azure Firewall
+4.	Azure Load Balancer
+5.	Azure Bastion
+6.	Azure Application Gateway
+7.	Azure Kubernetes Services (AKS)
+8.	Azure Monitor
+9.	Azure Spring Cloud
+10.	App Services
+11.	Mobile Apps
+12.	Logic Apps
+13.	Azure Functions
+14.	Azure Web Jobs
+15.	Azure Event Grid
+16.	Azure Service Bus
+17.	Azure Storage (blob, tables, queues, file, disk)
+18.	Azure CosmosDB
+19.	Azure Cognitive Services
+20.	Azure CDN (Content Delivery Network)
+21.	Azure Redis Cache
+22.	Azure API Management
+23.	Azure SQL Managed Instance
+24.	Azure Relational Databases (MySQL, PostgreSQL, SQL)
+25.	Azure NoSQL Databases (MongoDB etc)
+26.	Azure Data Lake Storage
+27.	Azure Data Factory
+
+
+
 
