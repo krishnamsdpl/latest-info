@@ -88,6 +88,13 @@ https://azurecharts.com/
 26.	Azure Data Lake Storage
 27.	Azure Data Factory
 
+8/5/2023:
 
+What is helm?
+Helm is a tool that automates the creation, packaging, configuration, and deployment of Kubernetes applications by combining your configuration files into a single reusable package.
+
+What is helm chart?
+
+A Helm chart is a set of YAML manifests and templates that describes Kubernetes resources (Deployments, Secrets, CRDs, etc.) and defined configurations needed for the Kubernetes application, and is also easy to deploy in a Kubernetes cluster or in a single node with just one command
 
 
