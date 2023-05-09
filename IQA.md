@@ -98,3 +98,10 @@ What is helm chart?
 A Helm chart is a set of YAML manifests and templates that describes Kubernetes resources (Deployments, Secrets, CRDs, etc.) and defined configurations needed for the Kubernetes application, and is also easy to deploy in a Kubernetes cluster or in a single node with just one command
 
 
+9/5/2023:
+
+K8s
+helm deployment
+
+
+
