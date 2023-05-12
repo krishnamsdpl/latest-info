@@ -103,6 +103,11 @@ A Helm chart is a set of YAML manifests and templates that describes Kubernetes 
 K8s
 helm deployment
 
+12-05-2023:
+
+1.Service principal in azure or management Identity 
+2.Azure security 
+
 
 
 
