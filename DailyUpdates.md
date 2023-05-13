@@ -32,6 +32,11 @@ Firewall
 Multi-cloud Infra also(AZure, GCP and AWS)
 
 
+13/05/2023:
+
+Azure Account details:
+User Name: Saiduluch2456@gmail.com
+Pwd : Saidulu@12345
 
 
 
