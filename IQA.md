@@ -108,6 +108,12 @@ helm deployment
 1.Service principal in azure or management Identity 
 2.Azure security 
 
+15-05-2023:
+
+What is difference b/w Rebase and Merge?
+
+Merging is a safe option that preserves the entire history of your repository, 
+while rebasing creates a linear history by moving your feature branch onto the tip of main
 
 
 
