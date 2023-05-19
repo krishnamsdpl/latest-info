@@ -115,6 +115,31 @@ What is difference b/w Rebase and Merge?
 Merging is a safe option that preserves the entire history of your repository, 
 while rebasing creates a linear history by moving your feature branch onto the tip of main
 
+19-05-2023:
+
+1.What is differebce b/w configmap and Secrets?
+The big difference between Secrets and ConfigMaps are that Secrets are obfuscated with a Base64 encoding.
+but it is good practice to use Secrets for confidential data (like API keys) 
+and ConfigMaps for non-confidential data (like port numbers).
+
+kubectl create secret generic apikey --from-literal=API_KEY=123–456
+
+kubectl create configmap language --from-literal=LANGUAGE=English
+
+
+2.What is difference b/w a replication controller and replica set?
+
+The major difference between a replication controller and replica set is that the rolling-update command works with Replication Controllers,
+but won't work with a Replica Set.  This is because Replica Sets are meant to be used as the backend for Deployments.
+
+3. what difference b/w Deployments, statefulset and daemonsetes? 
+Deployments are great for stateless applications that can be easily scaled horizontally.
+StatefulSets are great for applications that require persistent storage and have state that needs to be maintained
+DaemonSets are great for running an application on every node in the cluster, 
+
+
+
+
 
 
 
