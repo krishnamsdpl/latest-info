@@ -133,9 +133,22 @@ The major difference between a replication controller and replica set is that th
 but won't work with a Replica Set.  This is because Replica Sets are meant to be used as the backend for Deployments.
 
 3. what difference b/w Deployments, statefulset and daemonsetes? 
+
 Deployments are great for stateless applications that can be easily scaled horizontally.
 StatefulSets are great for applications that require persistent storage and have state that needs to be maintained
-DaemonSets are great for running an application on every node in the cluster, 
+DaemonSets are great for running an application on every node in the cluster.
+
+
+4.What is auto scalling ?
+Kubernetes enables autoscaling at the cluster/node level as well as at the pod level, two different but fundamentally connected layers of Kubernetes architecture.
+
+5.How do you scale Kubernetes pods automatically?
+
+Kubernetes Automatic Scaling with the Horizontal Pod Autoscaler (HPA) Object. 
+The Kubernetes HorizontalPodAutoscaler object updates pods, deployments and statefulsets to match demands by automatically scaling workloads. 
+The HPA's response to increased load is to dynamically provision additional pods
+
+
 
 
 
