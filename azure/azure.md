@@ -117,3 +117,13 @@ A security principal is an object that represents a user, group, service princip
 
 
 
+Role assignments
+A role assignment is the process of attaching a role definition to a user, group, service principal, or managed identity at a particular scope for the purpose of granting access. Access is granted by creating a role assignment, and access is revoked by removing a role assignment.
+
+The following diagram shows an example of a role assignment. In this example, the Marketing group has been assigned the Contributor role for the pharma-sales resource group. This means that users in the Marketing group can create or manage any Azure resource in the pharma-sales resource group. Marketing users do not have access to resources outside the pharma-sales resource group, unless they are part of another role assignment.
+
+![image](https://github.com/krishnamsdpl/latest-info/assets/30367367/a1f4ac6c-cf83-4512-9cac-ce3242a8b8d1)
+
+
+
+
