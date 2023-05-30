@@ -124,14 +124,14 @@ The following diagram shows an example of a role assignment. In this example, th
 
 ![image](https://github.com/krishnamsdpl/latest-info/assets/30367367/a1f4ac6c-cf83-4512-9cac-ce3242a8b8d1)
 
-[What can I do with Azure RBAC?
-How Azure RBAC works
-Groups
-Multiple role assignments
-Deny assignments
-How Azure RBAC determines if a user has access to a resource
-Where is Azure RBAC data stored?
-Why is Azure RBAC data global?
-License requirements]
+
+Assign Azure role:
+
+Azure role-based access control (Azure RBAC) is the authorization system you use to manage access to Azure resources. 
+To grant access, you assign roles to users, groups, service principals, or managed identities at a particular scope. This article describes how to assign roles using the Azure portal
+
+![image](https://github.com/krishnamsdpl/latest-info/assets/30367367/cdf01c57-2b77-475e-a18c-537355eb4cca)
+
+https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
 
 
