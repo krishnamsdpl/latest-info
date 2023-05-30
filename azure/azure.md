@@ -124,6 +124,14 @@ The following diagram shows an example of a role assignment. In this example, th
 
 ![image](https://github.com/krishnamsdpl/latest-info/assets/30367367/a1f4ac6c-cf83-4512-9cac-ce3242a8b8d1)
 
-
+[What can I do with Azure RBAC?
+How Azure RBAC works
+Groups
+Multiple role assignments
+Deny assignments
+How Azure RBAC determines if a user has access to a resource
+Where is Azure RBAC data stored?
+Why is Azure RBAC data global?
+License requirements]
 
 
