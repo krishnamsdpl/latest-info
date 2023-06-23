@@ -1,0 +1,9 @@
+Azure Devops
+Kubernetes
+Terraform
+Docker
+Jenkins
+Shell scripting 
+
+Azure Cloud
+GCP Cloud
